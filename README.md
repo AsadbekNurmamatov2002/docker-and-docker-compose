@@ -14,9 +14,10 @@ Docker shunday ishlaydi, sizda mashinada tasvir deb nomlanuvchi fayllar mavjud v
 Bu bizni Docker vs Docker Compose ga olib keladi.
 
 Docker - bu tasvirlarni boshqaradigan (yaraydigan, saqlaydigan yoki baham ko'radigan) va konteynerlarni ishga tushiradigan asosiy texnologiya.
-*
+
 Biz Docker faylini Dockerga tasvirlarimizni qanday yaratishni aytib beramiz. Misol uchun, biz aytamiz: Python 3 asosiy tasviridan boshlanadi, keyin ushbu talablarni o'rnatadi, keyin bu papkalarni yaratadi, so'ngra ushbu foydalanuvchiga o'ting va hokazo... (Men amaldagi qadamlarni haddan tashqari soddalashtiryapman, lekin bu faqat fikrni tushuntirish uchun) .
-*
+
+
 Buni amalga oshirganimizdan so'ng, biz docker build-ni ishga tushirish orqali Docker yordamida rasm yaratishimiz mumkin.. Agar buni ishga tushirsangiz, Docker bizning Dockerfile-dagi har bir qadamni bajaradi va natijani tizimda tasvir sifatida saqlaydi.
 
 Tasvir yaratilgandan so'ng, uni quyidagi kabi qo'lda ishlatishingiz mumkin:
